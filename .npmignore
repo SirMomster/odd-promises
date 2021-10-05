@@ -1,0 +1,9 @@
+__data__
+__tests__
+tsconfig.json
+package-lock.json
+.gitignore
+*.tgz
+src
+jest.config.js
+README.md
